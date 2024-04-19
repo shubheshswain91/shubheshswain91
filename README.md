@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhesh Swain</h1>
 <h3 align="center">A passionate Software Developer who likes to code every bit and bytes of data. I like learning and trying out new IT technologies. I believe every learning comes in handy at some point of time. Apart from it, I like doing sports and fitness training.</h3>
 
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/h9uDvp8uSfiU9hx59">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubheshswain91&label=Profile%20views&color=0e75b6&style=flat" alt="shubheshswain91" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubheshswain91" alt="shubheshswain91" /></a> </p>
